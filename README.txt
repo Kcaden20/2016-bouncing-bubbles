@@ -1,3 +1,5 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/jsndks/pen/ovjAC.
+Experiment with Floating Particles.
+
+Based on the Following Codepen: [http://codepen.io/jsndks/pen/ovjAC](http://codepen.io/jsndks/pen/ovjAC).
 
  
