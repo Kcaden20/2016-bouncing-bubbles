@@ -1,5 +1,5 @@
 Experiment with Floating Particles.
 
-Based on the Following Codepen: [http://codepen.io/jsndks/pen/ovjAC](http://codepen.io/jsndks/pen/ovjAC).
+Based on the Following [Codepen](http://codepen.io/jsndks/pen/ovjAC).
 
  
